@@ -1,0 +1,4 @@
+﻿  Zadatk2.cpp
+  The contents of <variant> are available only with C++17 or later.
+C:\Users\Korisnik\Desktop\Cpp\Zadatk2\Zadatk2\Zadatk2.cpp(19,20): warning C4018: '<': signed/unsigned mismatch
+  Zadatk2.vcxproj -> C:\Users\Korisnik\Desktop\Cpp\Zadatk2\Debug\Zadatk2.exe

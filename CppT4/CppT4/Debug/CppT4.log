@@ -1,0 +1,5 @@
+﻿  main.cpp
+  vector.cpp
+C:\Users\Korisnik\Desktop\src\vector.cpp(21,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CppT4.vcxproj -> C:\Users\Korisnik\Desktop\Cpp\CppT4\Debug\CppT4.exe

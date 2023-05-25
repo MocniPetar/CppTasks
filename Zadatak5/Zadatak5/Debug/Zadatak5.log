@@ -1,0 +1,8 @@
+﻿  main.cpp
+  textfixer.cpp
+C:\Users\Korisnik\Desktop\Cpp\Zadatak5\Zadatak5\textfixer.cpp(5,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\Desktop\Cpp\Zadatak5\Zadatak5\textfixer.cpp(25,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\Desktop\Cpp\Zadatak5\Zadatak5\textfixer.cpp(51,32): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Korisnik\Desktop\Cpp\Zadatak5\Zadatak5\textfixer.cpp(62,32): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Zadatak5.vcxproj -> C:\Users\Korisnik\Desktop\Cpp\Zadatak5\Debug\Zadatak5.exe
